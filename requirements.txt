@@ -1,6 +1,6 @@
 fastapi==0.114.2
 uvicorn[standard]==0.30.6
+gunicorn
 requests==2.32.3
 python-dotenv==1.0.1
 pyotp==2.9.0
-gunicorn
